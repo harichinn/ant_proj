@@ -60,7 +60,7 @@
 		</tr>
 	</table>
 </form:form>
-<table width="30%" bgcolor="cyan" align="center">
+<table width="20%" bgcolor="cyan" align="center">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
